@@ -18,14 +18,14 @@ const siteInfo = {
   skills: ['JavaScript', 'Python', 'React', 'HTML & CSS', 'Git & GitHub'],
   // Add a new project by copying one of these lines and changing its words.
   projects: [
-    { title: 'ReefWatch Miami', description: 'Interactive website to raise marine life awareness including multiple games and an integrated AI model from Roboflow', tag: 'Website' },
+    { title: 'ReefWatch Miami', description: 'Interactive website to raise marine life awareness including multiple games and an integrated AI model from Roboflow.', tag: 'Website' },
     { title: 'Calculator', description: 'A simple calculator.', tag: 'Python project' },
     { title: 'Your swamphacks project...', description: 'Coming Soon.', tag: 'TBD' },
   ],
   // Add your social links here. You can remove any of these if you don't want them to show up.
   links: {
-    github: 'https://github.com/your-username',
-    linkedin: 'https://www.linkedin.com/in/your-username',
+    github: 'https://github.com/gisellleI',
+    linkedin: 'https://www.linkedin.com/in/giselle-iskandarani',
   },
 }
 
